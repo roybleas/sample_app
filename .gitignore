@@ -20,4 +20,6 @@
 .DS_Store
 .idea
 .secret
+#ultra edit project file
+.pui
 

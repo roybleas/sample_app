@@ -1,11 +1,39 @@
 [Open Files]
 Active File Display Mode=1
-Active File Index=0
+Active File Index=7
 Open File Line0=0
-Open File Pos0=0
-Open File Window Pos0=0,1,-1,-1,-1,-1,3,26,1379,518
+Open File Line1=0
+Open File Line2=52
+Open File Line3=0
+Open File Line4=0
+Open File Line5=0
+Open File Line6=0
+Open File Line7=0
+Open File Pos0=122
+Open File Pos1=31
+Open File Pos2=1011
+Open File Pos3=26
+Open File Pos4=103
+Open File Pos5=35
+Open File Pos6=95
+Open File Pos7=501
+Open File Window Pos0=0,1,-1,-1,-1,-1,3,74,470,730
+Open File Window Pos1=0,1,-1,-1,-1,-1,3,74,470,730
+Open File Window Pos2=0,1,-1,-1,-1,-1,3,74,470,730
+Open File Window Pos3=0,1,-1,-1,-1,-1,3,74,470,730
+Open File Window Pos4=0,1,-1,-1,-1,-1,3,74,470,730
+Open File Window Pos5=0,1,-1,-1,-1,-1,3,74,470,730
+Open File Window Pos6=0,1,-1,-1,-1,-1,3,74,470,730
+Open File Window Pos7=0,1,-1,-1,-1,-1,3,74,470,730
 Open File0=I:\Projects\Ruby\RubyTutorials\RailsProjects\sample_app\config\routes.rb
-Open File1=
+Open File1=I:\Projects\Ruby\RubyTutorials\RailsProjects\sample_app\app\views\static_pages\home.html.erb
+Open File2=I:\Projects\Ruby\RubyTutorials\RailsProjects\sample_app\spec\requests\static_pages_spec.rb
+Open File3=I:\Projects\Ruby\RubyTutorials\RailsProjects\sample_app\app\views\static_pages\help.html.erb
+Open File4=I:\Projects\Ruby\RubyTutorials\RailsProjects\sample_app\app\controllers\static_pages_controller.rb
+Open File5=I:\Projects\Ruby\RubyTutorials\RailsProjects\sample_app\app\views\static_pages\about.html.erb
+Open File6=I:\Projects\Ruby\RubyTutorials\RailsProjects\sample_app\app\views\layouts\application.html.erb
+Open File7=I:\Projects\Ruby\RubyTutorials\RailsProjects\sample_app\.gitignore
+Open File8=
 Remember Files=1
 
 [Project Information]
@@ -13,6 +41,13 @@ Project Start=DE0707000200160011003200230000006A
 
 [Folders]
 .\=1
-.\ - config=1
+.\ - app=1
+.\ - app - controllers=1
+.\ - app - views=1
+.\ - app - views - layouts=1
+.\ - app - views - static_pages=1
 .\ - config - initializers=1
+.\ - spec=1
+.\ - spec - requests=1
+.\ - test=1
 

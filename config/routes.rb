@@ -1,7 +1,7 @@
 SampleApp::Application.routes.draw do
   
   resources :users
-  resources :sessions, only: [:new, :create, :destry]
+  resources :sessions, only: [:new, :create, :destroy]
 	root	'static_pages#home'
 	match '/help', 		to:	'static_pages#help',			via: 'get'
 	match '/about', 	to:	'static_pages#about',			via: 'get'
